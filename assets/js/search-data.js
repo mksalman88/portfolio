@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-bookshelf",
           title: "Bookshelf",
-          description: "",
+          description: "A list of the best books I&#39;ve held in my hands",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/books/";
@@ -393,11 +393,51 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-emergent-tokyo-designing-the-spontaneous-city",
-          title: 'Emergent Tokyo Designing the Spontaneous City',
+      },{id: "books-there-39-s-always-this-year-on-basketball-and-ascension",
+          title: 'There&amp;#39;s Always This Year: On Basketball and Ascension',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_godfather/";
+              window.location.href = "/al-folio/books/ascension/";
+            },},{id: "books-the-courage-to-be-disliked",
+          title: 'The Courage To Be Disliked',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/courage/";
+            },},{id: "books-on-earth-we-39-re-briefly-gorgeous",
+          title: 'On Earth We&amp;#39;re Briefly Gorgeous',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/earth/";
+            },},{id: "books-the-emperor-of-gladness",
+          title: 'The Emperor of Gladness',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/emperor/";
+            },},{id: "books-the-hundred-year-39-s-war-on-palestine",
+          title: 'The Hundred Year&amp;#39;s War on Palestine',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/palestine/";
+            },},{id: "books-are-prisons-obsolete",
+          title: 'Are Prisons Obsolete?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/prisons/";
+            },},{id: "books-time-is-a-mother",
+          title: 'Time Is A Mother',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/time/";
+            },},{id: "books-vanishing-new-york",
+          title: 'Vanishing New York',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/vanish/";
+            },},{id: "books-eye-level",
+          title: 'Eye Level',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/xie/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
