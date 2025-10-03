@@ -7,7 +7,6 @@ nav_order: 5
 collection: books
 ---
 
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+The best books I've held in my hands:
 
 ## Books that I am reading, have read, or will read
