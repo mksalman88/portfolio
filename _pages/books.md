@@ -9,4 +9,4 @@ collection: books
 
 The best books I've held in my hands:
 
-## Books that I am reading, have read, or will read
+
