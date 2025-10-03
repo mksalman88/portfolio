@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my professional and personal projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/projects/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-bookshelf",
           title: "Bookshelf",
-          description: "A list of the best books I&#39;ve held in my hands",
+          description: "A list of the best books I&#39;ve held in my hands.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/books/";
@@ -428,6 +428,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/time/";
+            },},{id: "books-emergent-tokyo-designing-the-spontaneous-city",
+          title: 'Emergent Tokyo: Designing the Spontaneous City',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/tokyo/";
             },},{id: "books-vanishing-new-york",
           title: 'Vanishing New York',
           description: "",
@@ -506,7 +511,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/maliksal", "_blank");
+          window.open("https://www.linkedin.com/in/malikmal", "_blank");
         },
       },{
       id: 'light-theme',
