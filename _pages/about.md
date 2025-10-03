@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an urban strategist and data scientist with a background in physics and urban planning. I thrive at the intersection of technical depth and real-world application, synthesizing complex subject-matter into actionable insights. My focus is on data-driven and design-based projects in the context of the built environment. In my spare time, I pursue my passion for poetry and songwriting. 
+I am a strategist and data scientist with a background in urban data science, physics, and urban planning. I thrive at the intersection of technical depth and real-world application, synthesizing complex subject-matter into actionable insights. My focus is on data-driven and design-based projects in the context of the built environment. In my spare time, I pursue my passion for poetry and songwriting. 
 
 [Download my CV (PDF)](/al-folio/assets/pdf/Resume_MalikSalman.pdf){:target="_blank"}
 

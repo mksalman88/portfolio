@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: "There's Always This Year: On Basketball and Ascension"
+title: "There's Always This Year"
 author: Hanif Abdurraqib
 cover: assets/img/book_covers/ascension.jpg
 released: 2025

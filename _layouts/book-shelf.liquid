@@ -6,31 +6,61 @@ layout: page
 {% if page.collection and page.collection.size > 0 %}
   {% assign collection = site[page.collection] %}
   {% if collection and collection.size > 0 %}
-    <ul>
-    {% for item in collection reversed %}
-      <figure class="cover">
-        <a class="cover-link" href="{{ item.url | relative_url }}">
+    <div class="bookshelf">
+      {% for item in collection reversed %}
+        <div class="book">
           {% if item.cover %}
-            <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}" style="height:200px">
+            <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}">
           {% elsif item.olid %}
-            <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false" style="height:200px">
+            <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false">
           {% elsif item.isbn %}
-            <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" style="height:200px">
+            <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false">
           {% endif %}
-          {% if item.status %}
-            {% assign statuses = 'abandoned,finished,interested,paused,queued,reading,reread' | split: ',' %}
-            {% assign status = item.status | downcase | strip %}
-            {% if statuses contains status %}
-              <figcaption class="{{ status | downcase }}">{{ status | upcase }}</figcaption>
-            {% else %}
-              <figcaption class="uncategorized">UNCATEGORIZED</figcaption>
+
+          <div class="book-info">
+            <h3>{{ item.title }}</h3>
+            {% if item.author %}
+              <p>{{ item.author }}</p>
             {% endif %}
-          {% else %}
-            <figcaption class="uncategorized">UNCATEGORIZED</figcaption>
-          {% endif %}
-        </a>
-      </figure>
-    {% endfor %}
-    </ul>
+            {% if item.started %}
+              <p><i class="fa-solid fa-calendar"></i> {{ item.started | date: '%Y' }}</p>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
   {% endif %}
 {% endif %}
+
+<style>
+.bookshelf {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 2 per row */
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.book {
+  text-align: center;
+}
+
+.book img {
+  max-height: 300px;
+  width: auto;
+  display: block;
+  margin: 0 auto 10px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.book-info h3 {
+  margin: 5px 0;
+  font-size: 1.1rem;
+}
+
+.book-info p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+</style>
