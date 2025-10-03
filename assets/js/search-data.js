@@ -393,8 +393,8 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-there-39-s-always-this-year-on-basketball-and-ascension",
-          title: 'There&amp;#39;s Always This Year: On Basketball and Ascension',
+      },{id: "books-there-39-s-always-this-year",
+          title: 'There&amp;#39;s Always This Year',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/ascension/";
