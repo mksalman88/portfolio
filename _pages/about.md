@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: New York, NY | 248-463-0799 | mksalmanpers@gmail.com
 
