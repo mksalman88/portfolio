@@ -418,8 +418,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/emperor/";
-            },},{id: "books-the-hundred-years-39-war-on-palestine",
-          title: 'The Hundred Years&amp;#39; War on Palestine',
+            },},{id: "books-the-hundred-year-39-s-war-on-palestine",
+          title: 'The Hundred Year&amp;#39;s War on Palestine',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/palestine/";
