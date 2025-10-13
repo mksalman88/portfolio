@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Placemaking and Local Business Ownership in NYC's Chinatown
+description: Community Ties and Self-sufficiency
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Personal
 related_publications: true
 ---
 
