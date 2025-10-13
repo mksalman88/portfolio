@@ -7,6 +7,3 @@ nav: true
 nav_order: 5
 collection: books
 ---
-
-
-

@@ -7,5 +7,5 @@ released: 2025
 stars: 5
 status: Finished
 ---
-Notes: Saw Abdurraqib speak on his process for this book in Ann Arbor. That's where I got my copy, too.
 
+Notes: Saw Abdurraqib speak on his process for this book in Ann Arbor. That's where I got my copy, too.
