@@ -25,6 +25,6 @@ latest_posts:
 
 I am a strategist and data scientist with a background in urban data science, physics, and urban planning. I thrive at the intersection of technical depth and real-world application, synthesizing complex subject-matter into actionable insights. My focus is on data-driven and design-based projects in the context of the built environment. In my spare time, I pursue my passion for poetry and songwriting.
 
-[Download my CV (PDF)](/assets/pdf/Resume_MalikSalman.pdf){:target="_blank"}
+[Download my CV (PDF)](/portfolio/assets/pdf/Resume_MalikSalman.pdf){:target="_blank"}
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
