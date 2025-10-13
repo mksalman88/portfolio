@@ -2,7 +2,7 @@
 layout: book-review
 title: "On Earth We're Briefly Gorgeous"
 author: Ocean Vuong
-cover: /assets/img/book_covers/earth.jpg
+cover: /assets/img/book_covers/earth.JPG
 released: 2019
 stars: 5
 status: Finished
