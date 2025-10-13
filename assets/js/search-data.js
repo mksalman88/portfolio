@@ -464,9 +464,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-placemaking-and-local-business-ownership-in-nyc-39-s-chinatown",
+          title: 'Placemaking and Local Business Ownership in NYC&amp;#39;s Chinatown',
+          description: "Community Ties and Self-sufficiency",
           section: "Projects",handler: () => {
               window.location.href = "/my-al-folio/projects/1_project/";
             },},{id: "projects-project-2",
