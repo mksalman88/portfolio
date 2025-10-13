@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "mksalman88/my-al-folio",
+    "data-repo": "mksalman88/portfolio",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
