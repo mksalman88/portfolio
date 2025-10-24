@@ -509,6 +509,41 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
+            },},{id: "projects-4am",
+          title: '4AM',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/4am/";
+            },},{id: "projects-ants",
+          title: 'Ants',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/ant/";
+            },},{id: "projects-derealization",
+          title: 'Derealization',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/derealization/";
+            },},{id: "projects-dream",
+          title: 'Dream',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/dream/";
+            },},{id: "projects-the-paradox-of-present-tense",
+          title: 'The Paradox of Present Tense',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/present/";
+            },},{id: "projects-re-member",
+          title: 'Re member',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/remember/";
+            },},{id: "projects-poetry",
+          title: 'Poetry',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poetry/";
             },},{
         id: 'social-github',
         title: 'GitHub',
