@@ -5,16 +5,15 @@ project-type: poetry   # used to list it on poetry.md
 permalink: /poems/ant/
 ---
 
-<p style="line-height: 1.15;">
-
 **Outtake 1:**
 
 Do you believe in god?
-                                                                                        I don’t believe in anything.
+
+I don’t believe in anything.
 
 You must believe in something… What about Ants? 
 
-                                                                                        I guess I believe in Ants. 
+I guess I believe in Ants. 
 
 **Outtake 2:**
 
@@ -42,8 +41,6 @@ Maybe. Maybe it moves more slowly when you stay present.
 
 Like the time I saw the stars in Andalusia. /
 When you really take it all in, you feel like the universe is engulfing you. /
-You feel this notion of oneness. /
+You feel this notion of oneness. 
 
 Dude, look at those Ants. 
-
-</p>
