@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Paradox of Present Tense"
+title: "Paradox of Present Tense"
 project-type: poetry   # used to list it on poetry.md
 permalink: /poems/present/
 ---
