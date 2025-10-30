@@ -509,6 +509,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
+            },},{id: "projects-11-11",
+          title: '11:11',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/poems/11/";
             },},{id: "projects-ants",
           title: 'Ants',
           description: "",
