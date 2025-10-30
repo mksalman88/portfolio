@@ -529,8 +529,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/poems/dream/";
-            },},{id: "projects-the-paradox-of-present-tense",
-          title: 'The Paradox of Present Tense',
+            },},{id: "projects-paradox-of-present-tense",
+          title: 'Paradox of Present Tense',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/poems/present/";
