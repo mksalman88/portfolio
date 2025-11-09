@@ -15,5 +15,5 @@ love in the palms of your hands
 Lest you forget /
 that just as water will eventually seep through the cracks /
 life and love unravel at the moment of death /
-That’s what fate is: /
+That’s what fate is /
 It’s **fat(e)**al
