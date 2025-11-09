@@ -514,6 +514,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/maps/";
+            },},{id: "projects-energy-burden-in-the-bronx-new-york-city",
+          title: 'Energy Burden in the Bronx, New York City',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/maps/bronx-energy-burden/";
             },},{id: "projects-11-11",
           title: '11:11',
           description: "",
@@ -549,11 +554,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/poetry/";
-            },},{id: "projects-energy-burden-in-the-bronx-new-york-city",
-          title: 'Energy Burden in the Bronx, New York City',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/maps/bronx-energy-burden/";
             },},{
         id: 'social-github',
         title: 'GitHub',
