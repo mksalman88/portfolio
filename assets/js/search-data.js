@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/ascension/";
-            },},{id: "books-the-courage-to-be-disliked",
-          title: 'The Courage To Be Disliked',
+            },},{id: "books-courage",
+          title: 'Courage',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/courage/";
@@ -509,8 +509,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
-            },},{id: "projects-placemaking-and-abandonment-under-the-manhattan-bridge-the-benefits-of-permeable-space-and-the-simultaneous-drawbacks-of-spaces-tucked-away",
-          title: 'Placemaking and Abandonment Under the Manhattan Bridge: the Benefits of Permeable Space and...',
+            },},{id: "projects-placemaking-and-abandonment-under-the-manhattan-bridge",
+          title: 'Placemaking and Abandonment Under the Manhattan Bridge',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/ManhattanBridge/";
