@@ -6,4 +6,4 @@ cover: /assets/img/book_covers/courage.JPG
 released: 2013
 stars: 5
 status: Finished
----
+ 
