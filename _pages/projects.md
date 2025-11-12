@@ -6,7 +6,7 @@ description: A growing collection of my professional and personal projects.
 nav: true
 nav_order: 2
 display_categories: [Professional, Personal]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
