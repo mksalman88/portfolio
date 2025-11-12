@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/ascension/";
-            },},{id: "books-courage",
-          title: 'Courage',
+            },},{id: "books-the-courage-to-be-disliked",
+          title: 'The Courage To Be Disliked',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/courage/";
