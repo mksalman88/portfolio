@@ -509,8 +509,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
-            },},{id: "projects-placemaking-and-abandonment-under-the-manhattan-bridge",
-          title: 'Placemaking and Abandonment Under the Manhattan Bridge',
+            },},{id: "projects-placemaking-amp-abandonment-under-the-manhattan-bridge-the-benefits-of-permeable-space-amp-the-drawbacks-of-spaces-tucked-away",
+          title: 'Placemaking &amp;amp; Abandonment Under the Manhattan Bridge: the Benefits of Permeable Space &amp;amp;...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/ManhattanBridge/";
