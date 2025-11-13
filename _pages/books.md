@@ -1,11 +1,11 @@
----
+--- 
 layout: page
 title: Bookshelf
-permalink: /books/
+permalink: /books/ 
 description: A list of the best books I've held in my hands.
 nav: true
 nav_order: 5
-collection: books
+collection: books 
 ---
 
 <div class="container px-0">
