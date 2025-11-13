@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Bookshelf
 permalink: /books/
 description: A list of the best books I've held in my hands.
