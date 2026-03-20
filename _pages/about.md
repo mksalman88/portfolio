@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a strategist, urban planner, and data scientist. My focus is on data-driven and design-based projects in the context of the built environment. The bulk of my professional work thus far has been multifaceted and interdisciplinary, with an emphasis on mobility and placemaking. On a personal level, I am passionate about writing poetry and music, and about social and climate justice.
+I am a strategist, urban planner, and data scientist. My focus is on data-driven and design-based projects in the context of the built environment. The bulk of my professional work thus far has been interdisciplinary, with an emphasis on mobility and resilience. I am eligible to work in both the United States and the European Union.
 
 [Download my CV (PDF)]({{ '/assets/pdf/Resume_MalikSalman_Updated.pdf' | relative_url }}){:target="_blank"}
 
