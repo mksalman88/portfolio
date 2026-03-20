@@ -3,6 +3,7 @@ layout: page
 title: "Maps"
 permalink: /maps/
 category: Professional
+#img: /assets/img/maps/main.JPG
 ---
 
 <div class="col-sm-6 col-md-4 mb-4">
