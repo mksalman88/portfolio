@@ -12,4 +12,4 @@ The QueensLink Ridership Study makes the case for full reactivation and integrat
  
 Co-authored with Zhexuan Tang. Published March 2026.
 
-[Download Report (PDF)]({{ '/assets/pdf/QueensLink-Ridership-Study-2026.pdf' | relative_url }}){:target="_blank"}
+[Download Report (PDF)]({{ '/assets/pdf/Queenslink-Ridership-Study-2026.pdf' | relative_url }}){:target="_blank"}
