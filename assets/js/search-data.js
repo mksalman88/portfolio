@@ -464,22 +464,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-placemaking-and-local-business-ownership-in-nyc-39-s-chinatown",
-          title: 'Placemaking and Local Business Ownership in NYC&amp;#39;s Chinatown',
-          description: "Community Ties and Self-sufficiency",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -509,6 +494,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
+            },},{id: "projects-energy-burden-in-the-bronx-new-york-city",
+          title: 'Energy Burden in the Bronx, New York City',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/bronx-energy-burden/";
             },},{id: "projects-placemaking-amp-abandonment-under-the-manhattan-bridge",
           title: 'Placemaking &amp;amp; Abandonment Under the Manhattan Bridge',
           description: "",
@@ -519,11 +509,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/maps/";
-            },},{id: "projects-energy-burden-in-the-bronx-new-york-city",
-          title: 'Energy Burden in the Bronx, New York City',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/maps/bronx-energy-burden/";
             },},{id: "projects-11-11",
           title: '11:11',
           description: "",
@@ -559,6 +544,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/poetry/";
+            },},{id: "projects-queenslink-ridership-study",
+          title: 'QueensLink Ridership Study',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/queenslink/";
             },},{
         id: 'social-github',
         title: 'GitHub',
