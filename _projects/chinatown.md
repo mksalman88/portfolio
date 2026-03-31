@@ -5,6 +5,7 @@ subtitle: "The Benefits of Permeable Space & the Drawbacks of Spaces Tucked-Away
 permalink: /ManhattanBridge/
 category: Professional
 img: /assets/img/chinatown/cover.JPG
+importance: 3
 ---
 
 

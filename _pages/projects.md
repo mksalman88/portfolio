@@ -63,3 +63,21 @@ horizontal: true
   {% endif %}
 {% endif %}
 </div>
+
+<style>
+  .projects a:first-of-type h2.category {
+    margin-top: -3rem;
+    padding-top: 0rem;
+  }
+  .projects h2.category {
+    padding-top: 0rem;
+    margin-bottom: 0.75rem;
+  }
+  header.post-header {
+    margin-bottom: 0rem;
+  }
+  .col.mb-4 {
+    margin-bottom: 0.5rem !important;
+  }
+</style>
+

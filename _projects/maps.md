@@ -2,7 +2,7 @@
 layout: page
 title: "Maps"
 permalink: /maps/
-category: Professional
+category: 
 #img: /assets/img/maps/main.JPG
 ---
 

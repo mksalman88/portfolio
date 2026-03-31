@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My focus is on data-driven and design-based projects in the context of the built environment. The bulk of my professional work thus far has been focused on infrastructure investments, with an emphasis on mobility, equity, and economic resilience. I am particularly passionate about climate resilience and adaptation. Link to my website and resume: https://mksalman88.github.io/portfolio/. I am eligible to work in both the United States and the European Union.
+My focus is on data-driven and design-based projects in the context of the built environment. The bulk of my professional work thus far has been focused on infrastructure investments, with an emphasis on mobility, equity, and economic resilience. I am particularly passionate about climate resilience and adaptation. I am eligible to work in both the United States and the European Union.
 
 [Download my CV (PDF)]({{ '/assets/pdf/Resume_MalikSalman_Updated.pdf' | relative_url }}){:target="_blank"}
 
