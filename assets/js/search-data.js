@@ -499,8 +499,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/bronx-energy-burden/";
-            },},{id: "projects-placemaking-amp-abandonment-under-the-manhattan-bridge",
-          title: 'Placemaking &amp;amp; Abandonment Under the Manhattan Bridge',
+            },},{id: "projects-placemaking-on-chinatown-39-s-forsyth-street",
+          title: 'Placemaking on Chinatown&amp;#39;s Forsyth Street',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/ManhattanBridge/";
