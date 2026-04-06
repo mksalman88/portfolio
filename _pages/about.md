@@ -25,6 +25,6 @@ latest_posts:
 
 My focus is on data-driven and design-based projects in the context of the built environment. The bulk of my professional work thus far has been focused on infrastructure investments, with an emphasis on mobility, equity, and economic resilience. I am particularly passionate about climate resilience and adaptation. I am eligible to work in both the United States and the European Union.
 
-[Download my CV (PDF)]({{ '/assets/pdf/Resume_MalikSalman_Updated.pdf' | relative_url }}){:target="_blank"}
+[Download my CV (PDF)]({{ '/assets/pdf/MalikSalman_Resume.pdf' | relative_url }}){:target="_blank"}
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
