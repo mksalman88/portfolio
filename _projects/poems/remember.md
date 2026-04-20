@@ -8,8 +8,8 @@ When you are existentially con**fused**
 dis**rupt(ure)** your rigid way of being    
 Find the partitions inside of the previously-indiscernible mass   
 Dig up the fragments of what once were beautiful vessels   
-**Re member** their form and the way they used to hold just as you    
-**re member** yourself and the way you once held    
+**Re member** their form and the way they used to hold    
+just as you **re member** yourself and the way you once held    
 love in the palms of your hands 
 
 Lest you forget     

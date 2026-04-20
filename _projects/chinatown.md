@@ -42,7 +42,7 @@ street, not quite shelter. Residual, in the truest sense. </p>
 <p>Chua Mia Tee's <em>Benjamin Sheares Bridge – The Viaduct</em> (1981) comes to mind, both for its subject and for its mood. The painting renders Singapore's rapid modernization as something vast, indifferent, and alienating: concrete colonnade, glass towers, scraped earth, a patch of green hemmed in on all sides - the human figure is microscopic. Urban scale and change bring with them a sense of alienation and displacement. While Forsyth Market's bustling crowds are more of a subject than the people in Chua Mia Tee's composition, the tension remains unresolved: the bridge is still indifferent; the market exists in spite of it.</p>
 
 <div style="margin: 1rem 0;">
-  <img src="{{ '/assets/img/chinatown/bsb.JPG' | relative_url }}" loading="lazy" style="width:100%; object-fit:cover;">
+  <img src="{{ '/assets/img/chinatown/bsb.jpg' | relative_url }}" loading="lazy" style="width:100%; object-fit:cover;">
 </div>
 <p class="text-center text-muted" style="font-size:0.8rem;">Chua Mia Tee, <em>Benjamin Sheares Bridge – The Viaduct</em>, 1981. Collection of the National Gallery Singapore.</p>
 
