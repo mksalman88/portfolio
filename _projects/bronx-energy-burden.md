@@ -4,7 +4,7 @@ title: "Energy Burden in the Bronx, New York City"
 permalink: /bronx-energy-burden/
 category: Professional
 img: assets/img/maps/bronx-energy-preview.png
-importance: 2
+importance: 4
 ---     
 
 Energy Burden (%) is the share of a household’s income spent on home energy costs, expressed as a percentage of income. The energy burden presented in this map was derived from the raw LEAD Tool 2022 tract-level data, using the columns that represent total energy costs for electricity, gas, and fuel across all households. To calculate it, I added the total annual spending on these energy sources and divided that amount by the total household income within each census tract. Areas with lower incomes and older, less efficient housing tend to show higher energy burdens, while parks, industrial zones, or tracts with few or no households often have missing or distorted values, which is why those tracts are masked from the map. This map was created in python using geopandas and folium, and sources are referenced underneath the map.
