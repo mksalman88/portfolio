@@ -464,8 +464,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-cycling-infrastructure-amp-equity",
-          title: 'Cycling Infrastructure &amp;amp; Equity',
+          section: "News",},{id: "projects-cycling-infrastructure-amp-equity-analysis",
+          title: 'Cycling Infrastructure &amp;amp; Equity Analysis',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/bikelanes/";
