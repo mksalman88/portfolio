@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cycling Infrastructure & Equity"
+title: "Cycling Infrastructure & Equity Analysis"
 permalink: /bikelanes/
 category: Professional
 img: assets/img/bikelanes/Figure_1_PRODUCTION.jpeg
@@ -15,22 +15,23 @@ Co-authored with Marcel Moran and Takahiro Yabe. Accepted, *npj Sustainable Mobi
 
 <div style="margin: 2rem 0;">
 <img src="{{ '/assets/img/bikelanes/Figure_1_PRODUCTION.jpeg' | relative_url }}" style="width:100%;">
-<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">[Your caption here]</p>
+<p style="font-size:0.85rem; color:#fff; margin-top:0.5rem;"><strong>Figure 1.</strong> <strong>(A)</strong> Map of the spatial distribution of bike lane types in New York City, including protected bike lanes (where a physical barrier is provided between cyclists and automobile traffic), painted bike lanes (where a line of paint designates space for cyclists adjacent to automobile traffic), and sharrows (where a bicycle stencil is marked on the pavement of a shared traffic lane). <strong>(B)</strong> Street-level photographs of the three bike lane types in New York City: Protected, Painted, and Sharrow (all photos taken by the authors). <strong>(C)</strong> Growth in annual Citi Bike trips, 2018-2024. <strong>(D)</strong> Change in average Citi Bike trips, from the 12 months prior to the 12 months after bike-lane installation, by the type of bike lane adjacent to each bikeshare station. There is a positive association between the installation of protected bike lanes, as well as painted bike lanes or sharrows, with Citi Bike trips, of approximately 18% and 14% respectively.</p>
 </div>
 
 <div style="margin: 2rem 0;">
 <img src="{{ '/assets/img/bikelanes/Figure_2_PRODUCTION.jpeg' | relative_url }}" style="width:100%;">
-<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">[Your caption here]</p>
+<p style="font-size:0.85rem; color:#fff; margin-top:0.5rem;"><strong>Figure 2.</strong> <strong>(A)</strong> Citi Bike Stations as of the close of 2024, colored by the bike-lane type they lie adjacent to (protected, painted,
+sharrow, or none). <strong>(B)</strong> Photographs of an example street in New York City both before and and after protected bike-lane installation (photos drawn from Google Maps). <strong>(C)</strong> Difference-in-Differences (DiD) analysis of the change in bikeshare trips following the installation of protected bike lanes (left) and painted bike lanes and sharrows (right). Propensity score matching was used to pair bikeshare stations which are similar in a number of regards, but differ in terms of the presence or absence of a recently-installed, adjacent bike lane. The coefficients demonstrate that there is a causal effect only for protected bike lanes on ridership, one not detected for painted bike lanes and sharrows.</p>
 </div>
 
 <div style="margin: 2rem 0;">
 <img src="{{ '/assets/img/bikelanes/Figure_3_PRODUCTION.jpeg' | relative_url }}" style="width:100%;">
-<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">[Your caption here]</p>
+<p style="font-size:0.85rem; color:#fff; margin-top:0.5rem;"><strong>Figure 3.</strong> <strong>(A)</strong> Map of the percentage of Black residents by Census Block Group in New York City (2023), overlaid with Citi Bike stations serving as treated (triangles) and controls (circles) for the DiD analyses. <strong>(B)</strong> Heterogeneous Effects of protected bike lane installation on bikeshare ridership based on percentage of Black residents in each Census Block Group. The coefficients demonstrate that the causal effect of protected bike lanes on bikeshare ridership is only present in Census Block Groups with the lowest share of Black residents.</p>
 </div>
 
 <div style="margin: 2rem 0;">
 <img src="{{ '/assets/img/bikelanes/Figure_4_PRODUCTION.jpeg' | relative_url }}" style="width:100%;">
-<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">[Your caption here]</p>
+<p style="font-size:0.85rem; color:#fff; margin-top:0.5rem;"><strong>Figure 4.</strong> <strong>(A)</strong> Map of the percentage of older adults (60-79) by Census Block Group in New York City (2023), overlaid with Citi Bike stations serving as treated (triangles) and controls (circles) for the DiD analyses. <strong>(B)</strong> Heterogeneous effects of protected bike lane installation on bikeshare ridership based on percentage of older adults (60-79). The coefficients demonstrate that the causal effect of protected bike lanes on bikeshare ridership is more pronounced in Census Block Groups in which the percentage of older adults is the highest.</p>
 </div>
 
 </div>
